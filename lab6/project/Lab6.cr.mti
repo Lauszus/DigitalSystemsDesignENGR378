@@ -1,0 +1,24 @@
+{D:/Mapp/Komvux/Digital Systems Design/Lab 6/VGALab_DE2_Verilog/gamescore.v} {1 {vlog -work work {D:/Mapp/Komvux/Digital Systems Design/Lab 6/VGALab_DE2_Verilog/gamescore.v}
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module gamescore
+-- Compiling module t_gamescore
+-- Compiling module display_driver
+
+Top level modules:
+	t_gamescore
+
+} {} {}} {D:/Mapp/Komvux/Digital Systems Design/Lab 6/VGALab_DE2_Verilog/paddle.v} {1 {vlog -work work {D:/Mapp/Komvux/Digital Systems Design/Lab 6/VGALab_DE2_Verilog/paddle.v}
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module paddle
+
+Top level modules:
+	paddle
+
+} {} {}} {D:/Mapp/Komvux/Digital Systems Design/Lab 6/VGALab_DE2_Verilog/pong.v} {1 {vlog -work work {D:/Mapp/Komvux/Digital Systems Design/Lab 6/VGALab_DE2_Verilog/pong.v}
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module pong
+
+Top level modules:
+	pong
+
+} {} {}}

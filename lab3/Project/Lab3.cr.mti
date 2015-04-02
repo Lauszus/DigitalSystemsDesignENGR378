@@ -1,0 +1,32 @@
+{D:/Mapp/Komvux/Digital Systems Design/Lab 3-1/two_bit_counter.v} {1 {vlog -work work {D:/Mapp/Komvux/Digital Systems Design/Lab 3-1/two_bit_counter.v}
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module two_bit_counter
+
+Top level modules:
+	two_bit_counter
+
+} {} {}} {D:/Mapp/Komvux/Digital Systems Design/Lab 3-1/t_JK.v} {1 {vlog -work work {D:/Mapp/Komvux/Digital Systems Design/Lab 3-1/t_JK.v}
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module t_JK
+-- Compiling module t_two_bit_counter
+
+Top level modules:
+	t_JK
+	t_two_bit_counter
+
+} {} {}} {D:/Mapp/Komvux/Digital Systems Design/Lab 3-1/dlatch.v} {1 {vlog -work work {D:/Mapp/Komvux/Digital Systems Design/Lab 3-1/dlatch.v}
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module mydlatch
+-- Compiling module t_mydlatch
+
+Top level modules:
+	t_mydlatch
+
+} {} {}} {D:/Mapp/Komvux/Digital Systems Design/Lab 3-1/JK.v} {1 {vlog -work work {D:/Mapp/Komvux/Digital Systems Design/Lab 3-1/JK.v}
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module JK
+
+Top level modules:
+	JK
+
+} {} {}}
